@@ -1,0 +1,75 @@
+
+#cap-radar-config{--p-bg:light-dark(#f5f5f5,#191919);--p-surface:light-dark(#fff,#252525);--p-text:light-dark(#242424,#f0f0f0);--p-muted:light-dark(#696969,#b8b8b8);--p-line:light-dark(#d7d7d7,#505050);--p-active:light-dark(#292929,#e5e5e5);--p-inverse:light-dark(#fff,#222);--p-soft:light-dark(#ececec,#333);--p-danger:light-dark(#9b312c,#ffb5ad);font:14px/1.55 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif;color:var(--p-text);background:var(--p-bg);color-scheme:light dark;min-width:0}
+#cap-radar-config *{box-sizing:border-box}#cap-radar-config h1,#cap-radar-config h2,#cap-radar-config h3,#cap-radar-config p{margin:0}#cap-radar-config h1{font-size:22px;font-weight:600}#cap-radar-config h2{font-size:17px;font-weight:600}#cap-radar-config h3{font-size:14px;font-weight:600}#cap-radar-config button,#cap-radar-config input,#cap-radar-config select{font:inherit;color:inherit}#cap-radar-config button{min-height:34px;padding:6px 12px;border:1px solid var(--p-line);border-radius:5px;background:var(--p-surface);touch-action:manipulation}#cap-radar-config button:hover{background:var(--p-soft)}#cap-radar-config button:disabled{opacity:.4}#cap-radar-config .primary,#cap-radar-config button[aria-pressed="true"]{color:var(--p-inverse);background:var(--p-active);border-color:var(--p-active)}#cap-radar-config input:not([type="checkbox"]),#cap-radar-config select{width:100%;min-height:35px;padding:6px 8px;border:1px solid var(--p-line);border-radius:4px;background:var(--p-surface);min-width:0}#cap-radar-config input[type="checkbox"]{width:17px;height:17px;accent-color:var(--p-active)}#cap-radar-config :focus-visible{outline:2px solid var(--p-text);outline-offset:3px}#cap-radar-config .shell{padding:20px}#cap-radar-config .top{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 20px;background:var(--p-surface);border-bottom:1px solid var(--p-line);padding-right:105px;flex-wrap:wrap}#cap-radar-config .tag{border:1px solid var(--p-line);padding:2px 8px;border-radius:4px;display:inline-block;font-size:12px;white-space:nowrap}#cap-radar-config .muted{color:var(--p-muted)}#cap-radar-config .small{font-size:12px}#cap-radar-config .row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}#cap-radar-config .between{justify-content:space-between}#cap-radar-config .tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:18px}#cap-radar-config .head{display:flex;justify-content:space-between;align-items:flex-start;gap:15px;flex-wrap:wrap;margin-bottom:18px}#cap-radar-config .head p{margin-top:5px}#cap-radar-config .panel{background:var(--p-surface);border:1px solid var(--p-line);padding:18px;border-radius:6px;min-width:0}#cap-radar-config .panel-head{display:flex;justify-content:space-between;gap:10px;align-items:center;margin-bottom:12px;flex-wrap:wrap}#cap-radar-config .student-grid{display:grid;grid-template-columns:1fr 1.08fr;gap:16px;align-items:start}#cap-radar-config .radar{height:330px;position:relative;min-width:0;margin-top:8px}#cap-radar-config .radar svg{display:block;width:100%;height:330px}#cap-radar-config .axis-btn{position:absolute;transform:translate(-50%,-50%);padding:3px 5px;border:0;max-width:106px;font-size:12px;min-height:38px;background:var(--p-surface);line-height:1.3}#cap-radar-config .axis-btn span{display:block;font-size:14px;font-variant-numeric:tabular-nums;margin-top:3px}#cap-radar-config .dimension-list{display:grid;gap:5px}#cap-radar-config .dimension-item{display:flex;align-items:center;justify-content:space-between;gap:8px;text-align:left}#cap-radar-config .number{font-size:32px;font-weight:600;font-variant-numeric:tabular-nums}#cap-radar-config .grade-list{display:grid;gap:6px;margin:14px 0}#cap-radar-config .grade{border:1px solid var(--p-line);padding:8px 10px;display:flex;align-items:center;justify-content:space-between;gap:10px;border-radius:3px}#cap-radar-config .grade.selected{border:2px solid var(--p-active);padding:7px 9px;background:var(--p-soft)}#cap-radar-config .formula{padding:12px;background:var(--p-soft);font-variant-numeric:tabular-nums;margin:12px 0}#cap-radar-config .table-wrap{overflow:auto;max-width:100%}#cap-radar-config table{width:100%;border-collapse:collapse;text-align:left;font-size:13px}#cap-radar-config th{font-weight:500;color:var(--p-muted);background:var(--p-bg)}#cap-radar-config th,#cap-radar-config td{padding:9px 8px;border-bottom:1px solid var(--p-line);vertical-align:top}#cap-radar-config td.num{font-variant-numeric:tabular-nums;white-space:nowrap}#cap-radar-config .raw{margin-top:16px}#cap-radar-config details summary{padding:9px 0}#cap-radar-config .notice{border:1px dashed var(--p-line);padding:10px 12px;margin-bottom:14px;background:var(--p-surface)}#cap-radar-config .admin-grid{display:grid;grid-template-columns:185px minmax(0,1fr);gap:16px;align-items:start}#cap-radar-config .side{padding:12px}#cap-radar-config .side button{width:100%;margin-top:7px;display:flex;justify-content:space-between;align-items:center;text-align:left}#cap-radar-config .side button small{font-size:11px}#cap-radar-config .field-row{display:grid;grid-template-columns:1fr 110px;gap:16px;margin-bottom:16px}#cap-radar-config label.field{display:grid;gap:5px}#cap-radar-config .editor-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}#cap-radar-config .section{border-top:1px solid var(--p-line);padding-top:14px}#cap-radar-config .check-row{display:grid;grid-template-columns:22px minmax(0,1fr) 44px;align-items:center;gap:5px;padding:5px 0;border-bottom:1px solid var(--p-soft);font-size:13px;min-height:36px}#cap-radar-config .level-row{display:grid;grid-template-columns:1fr 76px;gap:8px;align-items:center;margin-top:8px}#cap-radar-config .level-range{font-size:12px;color:var(--p-muted);margin:4px 0 8px}#cap-radar-config .block{margin-top:16px}#cap-radar-config .errors{border:1px solid var(--p-danger);color:var(--p-danger);padding:10px 12px;margin-top:12px;font-size:13px}#cap-radar-config .errors ul{padding-left:20px;margin:5px 0}#cap-radar-config .success{border:1px solid var(--p-line);padding:12px;margin-top:12px;background:var(--p-soft)}#cap-radar-config .status-line{min-height:22px;margin-top:12px;color:var(--p-muted);font-size:12px}#cap-radar-config .flow{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;margin:16px 0}#cap-radar-config .flow-item{border:1px solid var(--p-line);padding:16px 12px;background:var(--p-surface);min-width:0}#cap-radar-config .flow-item b{font-weight:500;display:block;margin-bottom:8px}#cap-radar-config .logic-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}#cap-radar-config .footer{border-top:1px solid var(--p-line);padding:14px 0 0;margin-top:18px;display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}#cap-radar-config .publish-box{margin-top:15px;padding:16px;border:2px solid var(--p-active);background:var(--p-surface)}#cap-radar-config .publish-box p{margin:8px 0 12px}#cap-radar-config .metric-strip{display:flex;gap:20px;flex-wrap:wrap;margin-top:10px}#cap-radar-config .metric-strip strong{font-weight:500;font-size:18px}#cap-radar-config .samples{display:flex;gap:6px;align-items:center;flex-wrap:wrap}#cap-radar-config .empty{padding:30px 15px;text-align:center;border:1px dashed var(--p-line);color:var(--p-muted)}#cap-radar-config [hidden]{display:none!important}
+@media(max-width:820px){#cap-radar-config .student-grid,#cap-radar-config .editor-grid,#cap-radar-config .logic-grid{grid-template-columns:1fr}#cap-radar-config .flow{grid-template-columns:1fr 1fr}#cap-radar-config .shell{padding:14px}#cap-radar-config .panel{padding:14px}}
+@media(max-width:550px){#cap-radar-config .admin-grid{grid-template-columns:1fr}#cap-radar-config .side .dimension-list{grid-template-columns:1fr 1fr}#cap-radar-config .side button{margin:0}#cap-radar-config .field-row{grid-template-columns:1fr}#cap-radar-config .flow{grid-template-columns:1fr}#cap-radar-config .top{padding:14px;padding-right:100px}#cap-radar-config input,#cap-radar-config select{font-size:16px}#cap-radar-config .axis-btn{max-width:85px}#cap-radar-config .radar,#cap-radar-config .radar svg{height:310px}}
+
+#cap-radar-config .import-entry{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:14px;padding:13px 16px}
+#cap-radar-config .import-fields{display:grid;grid-template-columns:1.3fr 1fr;gap:24px}
+#cap-radar-config .import-fields p{margin-top:5px}
+#cap-radar-config .upload-line{display:flex;align-items:flex-end;gap:16px;flex-wrap:wrap;border-top:1px solid var(--p-line);padding-top:15px;margin-top:16px}
+#cap-radar-config .upload-line label{max-width:440px;flex:1;min-width:220px}
+#cap-radar-config .import-summary{margin:12px 0 18px;gap:24px}
+#cap-radar-config .import-table{min-width:760px;table-layout:fixed}
+#cap-radar-config .import-table th:first-child{width:68px}
+#cap-radar-config .import-table th:last-child{width:60px}
+#cap-radar-config .import-table td{vertical-align:middle;padding:7px 5px}
+#cap-radar-config .import-table input{min-width:0;max-width:100%}
+#cap-radar-config .import-table input[aria-invalid="true"]{border:2px solid var(--p-danger)}
+#cap-radar-config .import-error{color:var(--p-danger)}
+#cap-radar-config .file-name{word-break:break-all}
+@media(max-width:650px){#cap-radar-config .import-fields{grid-template-columns:1fr;gap:12px}#cap-radar-config .import-summary{gap:10px}#cap-radar-config .import-entry .row{width:100%}}
+
+
+/* Grayscale wireframe presentation. Business rules are unchanged. */
+html,body{margin:0;padding:0;background:#f5f5f5;color:#242424;color-scheme:light}
+#cap-radar-config{--p-bg:#f5f5f5;--p-surface:#fff;--p-text:#242424;--p-muted:#626262;--p-line:#d1d1d1;--p-active:#292929;--p-inverse:#fff;--p-soft:#ededed;--p-danger:#7c2828;color-scheme:light;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}
+#cap-radar-config .top{padding:19px 32px;min-height:80px;flex-wrap:wrap;gap:16px}
+#cap-radar-config .brand{display:flex;gap:12px;align-items:center}
+#cap-radar-config .brand strong{font-size:17px;font-weight:600}
+#cap-radar-config .brand-mark{width:36px;height:36px;display:grid;place-items:center;border:1.5px solid #333;font-weight:600;background:#fff}
+#cap-radar-config .app-nav{display:flex;gap:22px;align-items:center;padding:0 32px;background:#fff;border-bottom:1px solid var(--p-line);flex-wrap:wrap}
+#cap-radar-config .app-nav>button{border:0;border-radius:0;background:none;color:var(--p-muted);min-height:52px;padding:0 2px;border-bottom:3px solid transparent}
+#cap-radar-config .app-nav>button[aria-pressed="true"]{border-bottom-color:#333;color:#222;font-weight:600}
+#cap-radar-config .board-link{margin-left:auto;color:#555;font-size:12px;text-underline-offset:4px}
+#cap-radar-config .shell{max-width:1360px;padding:22px 32px 28px;margin:0 auto}
+#cap-radar-config .breadcrumb{font-size:12px;color:#747474;margin-bottom:24px}
+#cap-radar-config h1{font-size:24px;letter-spacing:-.4px}
+#cap-radar-config .head{margin-bottom:22px;align-items:center}
+#cap-radar-config .head .row{gap:8px}
+#cap-radar-config .panel{border-radius:2px;padding:22px;box-shadow:none}
+#cap-radar-config .panel-head{margin-bottom:18px}
+#cap-radar-config button{border-radius:3px;min-height:36px;padding:7px 13px;cursor:pointer}
+#cap-radar-config button:disabled{cursor:not-allowed}
+#cap-radar-config .side{padding:17px 14px}
+#cap-radar-config .side button{margin-top:8px;min-height:43px;padding:9px 11px}
+#cap-radar-config .dimension-item[aria-pressed="true"],#cap-radar-config .side button[aria-pressed="true"]{background:#e9e9e9;color:#222;border-color:#666;border-left:3px solid #333}
+#cap-radar-config .admin-grid{grid-template-columns:205px minmax(0,1fr);gap:20px}
+#cap-radar-config .editor-grid{gap:32px}
+#cap-radar-config .field-row{grid-template-columns:minmax(0,1fr) 150px;gap:24px}
+#cap-radar-config .field{font-weight:500}
+#cap-radar-config .check-row{min-height:39px}
+#cap-radar-config .notice{border-style:solid;border-left:3px solid #666;background:#fafafa;color:#555;padding:12px 14px}
+#cap-radar-config .import-entry{padding:15px 20px;gap:16px}
+#cap-radar-config .import-entry b{font-size:15px}
+#cap-radar-config .student-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:22px}
+#cap-radar-config .radar,#cap-radar-config .radar svg{height:345px}
+#cap-radar-config .axis-btn{min-height:40px;font-size:12px;border:0;padding:4px 6px}
+#cap-radar-config .axis-btn[aria-pressed="true"]{background:#e9e9e9;color:#222;border-radius:2px}
+#cap-radar-config .grade{padding:10px 12px;border-radius:2px}
+#cap-radar-config .grade.selected{border-width:1px;border-left-width:3px;padding:10px 10px;background:#ededed}
+#cap-radar-config .grade-list{margin:20px 0}
+#cap-radar-config .number{font-size:36px;line-height:1.2}
+#cap-radar-config .formula{padding:15px;font-size:13px;line-height:1.8}
+#cap-radar-config .tag{border-radius:2px;padding:3px 8px}
+#cap-radar-config .success{background:#f3f3f3;border-color:#b9b9b9}
+#cap-radar-config .publish-box{border:1.5px solid #333;border-left-width:4px;padding:20px}
+#cap-radar-config .import-table{min-width:690px}
+#cap-radar-config .import-table th:nth-child(2){width:150px}
+#cap-radar-config .flow-item{padding:22px 16px;position:relative}
+#cap-radar-config .flow-item:not(:last-child)::after{content:'›';position:absolute;right:-11px;top:45%;font-size:18px;background:#f5f5f5}
+#cap-radar-config .raw{padding:10px 20px}
+#cap-radar-config .status-line{border-top:1px solid #ddd;padding:12px 0 0;margin-top:22px}
+@media(min-width:1100px){#cap-radar-config .radar,#cap-radar-config .radar svg{height:380px}}
+@media(max-width:1000px){#cap-radar-config .editor-grid{grid-template-columns:1fr;gap:22px}#cap-radar-config .top{padding:18px 22px}#cap-radar-config .shell{padding:20px 22px}#cap-radar-config .app-nav{padding:0 22px;gap:18px}#cap-radar-config .board-link{margin-left:0}}
+@media(max-width:760px){#cap-radar-config .student-grid,#cap-radar-config .admin-grid{grid-template-columns:1fr}#cap-radar-config .side .dimension-list{grid-template-columns:repeat(2,minmax(0,1fr))}#cap-radar-config .shell{padding:18px 14px}#cap-radar-config .top{padding:15px 18px}#cap-radar-config .panel{padding:16px}#cap-radar-config .field-row{grid-template-columns:1fr}#cap-radar-config .app-nav{gap:14px;padding:0 18px}#cap-radar-config .app-nav>button{min-height:44px;font-size:13px}#cap-radar-config .board-link{display:none}#cap-radar-config .flow{grid-template-columns:1fr}#cap-radar-config .flow-item::after{display:none}#cap-radar-config .head .row{width:100%}#cap-radar-config .breadcrumb{margin-bottom:18px}#cap-radar-config .brand strong{font-size:15px}}

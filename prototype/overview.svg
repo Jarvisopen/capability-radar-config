@@ -1,0 +1,295 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1860" height="1540" viewBox="0 0 1860 1540"><title>虚拟仿真实验能力评价：四屏低保真产品原型</title><style>text{font-family:"PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#292929} .muted{fill:#666}</style>
+<rect x="0" y="0" width="1860" height="1540" rx="0" fill="#f5f5f5" stroke="#f5f5f5"/>
+<text x="65" y="68" font-size="38" font-weight="600" style="fill:#292929">能力评价配置与能力画像</text>
+<text x="65" y="106" font-size="21" font-weight="400" style="fill:#626262">低保真产品原型  /  用于页面结构、计算规则与关键交互评审</text>
+<line x1="65" y1="132" x2="1795" y2="132" stroke="#bcbcbc"/>
+<text x="65" y="169" font-size="20" font-weight="400" style="fill:#292929">手动配置 / Excel 导入   →   草稿编辑   →   校验与预览   →   发布新版本   →   学生能力画像</text>
+<text x="65" y="210" font-size="24" font-weight="600" style="fill:#292929">后台 · 能力评价配置</text>
+<text x="65" y="234" font-size="16" font-weight="400" style="fill:#656565">选择维度 → 关联步骤 → 设置分界值 → 样例试算</text>
+<rect x="65" y="255" width="840" height="535" rx="3" fill="#fff" stroke="#a8a8a8"/>
+<rect x="65" y="255" width="840" height="42" rx="3" fill="#ededed" stroke="#a8a8a8"/>
+<text x="83" y="282" font-size="16" font-weight="600" style="fill:#292929">虚拟仿真实验教学平台</text>
+<text x="725" y="282" font-size="14" font-weight="400" style="fill:#666">低保真 / 示例数据</text>
+<text x="87" y="325" font-size="23" font-weight="600" style="fill:#292929">能力评价配置</text>
+<rect x="634" y="316" width="100" height="32" rx="2" fill="#fff" stroke="#bbb"/>
+<text x="646" y="338" font-size="15" font-weight="400" style="fill:#333">保存草稿</text>
+<rect x="749" y="316" width="112" height="32" rx="2" fill="#fff" stroke="#bbb"/>
+<text x="761" y="338" font-size="15" font-weight="400" style="fill:#333">学生预览</text>
+<text x="87" y="362" font-size="15" font-weight="400" style="fill:#666">停送电操作实验（示例） / 草稿基于 V1.0</text>
+<rect x="87" y="382" width="155" height="330" rx="0" fill="#fafafa" stroke="#c5c5c5"/>
+<text x="99" y="410" font-size="16" font-weight="600" style="fill:#292929">能力维度  5 / 8</text>
+<rect x="97" y="427" width="135" height="33" rx="2" fill="#fff" stroke="#bfbfbf"/>
+<text x="107" y="449" font-size="15" font-weight="400" style="fill:#292929">安全规范</text>
+<text x="200" y="449" font-size="13" font-weight="400" style="fill:#666">3级</text>
+<rect x="97" y="467" width="135" height="33" rx="2" fill="#fff" stroke="#bfbfbf"/>
+<text x="107" y="489" font-size="15" font-weight="400" style="fill:#292929">设备理解</text>
+<text x="200" y="489" font-size="13" font-weight="400" style="fill:#666">3级</text>
+<rect x="97" y="507" width="135" height="33" rx="2" fill="#e1e1e1" stroke="#bfbfbf"/>
+<text x="107" y="529" font-size="15" font-weight="400" style="fill:#292929">操作执行</text>
+<text x="200" y="529" font-size="13" font-weight="400" style="fill:#666">3级</text>
+<rect x="97" y="547" width="135" height="33" rx="2" fill="#fff" stroke="#bfbfbf"/>
+<text x="107" y="569" font-size="15" font-weight="400" style="fill:#292929">状态核验</text>
+<text x="200" y="569" font-size="13" font-weight="400" style="fill:#666">3级</text>
+<rect x="97" y="587" width="135" height="33" rx="2" fill="#fff" stroke="#bfbfbf"/>
+<text x="107" y="609" font-size="15" font-weight="400" style="fill:#292929">数据分析</text>
+<text x="200" y="609" font-size="13" font-weight="400" style="fill:#666">3级</text>
+<rect x="97" y="638" width="135" height="32" rx="2" fill="#fff" stroke="#bbb"/>
+<text x="109" y="660" font-size="15" font-weight="400" style="fill:#333">＋ 添加维度</text>
+<text x="267" y="396" font-size="14" font-weight="400" style="fill:#666">维度名称</text>
+<rect x="267" y="406" width="307" height="32" rx="0" fill="#fff" stroke="#c5c5c5"/>
+<text x="277" y="428" font-size="15" font-weight="400" style="fill:#292929">操作执行</text>
+<text x="595" y="396" font-size="14" font-weight="400" style="fill:#666">等级数量</text>
+<rect x="595" y="406" width="266" height="32" rx="0" fill="#fff" stroke="#c5c5c5"/>
+<text x="605" y="428" font-size="15" font-weight="400" style="fill:#292929">3 级  ▾</text>
+<text x="267" y="465" font-size="17" font-weight="600" style="fill:#292929">关联步骤</text>
+<text x="595" y="465" font-size="17" font-weight="600" style="fill:#292929">等级与起始分数</text>
+<rect x="267" y="483" width="15" height="15" rx="1" fill="#fff" stroke="#999"/>
+<text x="292" y="497" font-size="15" font-weight="400" style="fill:#292929">01 安全准备                 5分</text>
+<rect x="267" y="510" width="15" height="15" rx="1" fill="#fff" stroke="#999"/>
+<text x="292" y="524" font-size="15" font-weight="400" style="fill:#292929">02 设备认知                10分</text>
+<rect x="267" y="537" width="15" height="15" rx="1" fill="#fff" stroke="#999"/>
+<text x="292" y="551" font-size="15" font-weight="400" style="fill:#292929">03 主接线识读             10分</text>
+<rect x="267" y="564" width="15" height="15" rx="1" fill="#fff" stroke="#999"/>
+<text x="292" y="578" font-size="15" font-weight="400" style="fill:#292929">04 操作票编制             10分</text>
+<rect x="267" y="591" width="15" height="15" rx="1" fill="#e8e8e8" stroke="#999"/>
+<text x="269" y="603" font-size="12" font-weight="400" style="fill:#292929">✓</text>
+<text x="292" y="605" font-size="15" font-weight="400" style="fill:#292929">05 停电倒闸操作          20分</text>
+<rect x="267" y="618" width="15" height="15" rx="1" fill="#e8e8e8" stroke="#999"/>
+<text x="269" y="630" font-size="12" font-weight="400" style="fill:#292929">✓</text>
+<text x="292" y="632" font-size="15" font-weight="400" style="fill:#292929">06 验电与接地             20分</text>
+<rect x="267" y="645" width="15" height="15" rx="1" fill="#fff" stroke="#999"/>
+<text x="292" y="659" font-size="15" font-weight="400" style="fill:#292929">07 设备状态核验          10分</text>
+<rect x="267" y="672" width="15" height="15" rx="1" fill="#e8e8e8" stroke="#999"/>
+<text x="269" y="684" font-size="12" font-weight="400" style="fill:#292929">✓</text>
+<text x="292" y="686" font-size="15" font-weight="400" style="fill:#292929">08 送电恢复                 5分</text>
+<text x="595" y="498" font-size="17" font-weight="400" style="fill:#292929">Lv1</text>
+<rect x="765" y="479" width="94" height="29" rx="0" fill="#f2f2f2" stroke="#c5c5c5"/>
+<text x="778" y="500" font-size="16" font-weight="400" style="fill:#292929">0</text>
+<text x="595" y="521" font-size="13" font-weight="400" style="fill:#666">0 ≤ 分数 &lt; 60</text>
+<text x="595" y="556" font-size="17" font-weight="400" style="fill:#292929">Lv2</text>
+<rect x="765" y="537" width="94" height="29" rx="0" fill="#fff" stroke="#c5c5c5"/>
+<text x="778" y="558" font-size="16" font-weight="400" style="fill:#292929">60</text>
+<text x="595" y="579" font-size="13" font-weight="400" style="fill:#666">60 ≤ 分数 &lt; 80</text>
+<text x="595" y="614" font-size="17" font-weight="400" style="fill:#292929">Lv3</text>
+<rect x="765" y="595" width="94" height="29" rx="0" fill="#fff" stroke="#c5c5c5"/>
+<text x="778" y="616" font-size="16" font-weight="400" style="fill:#292929">80</text>
+<text x="595" y="637" font-size="13" font-weight="400" style="fill:#666">80 ≤ 分数 ≤ 100</text>
+<rect x="595" y="664" width="266" height="55" rx="0" fill="#efefef" stroke="#c5c5c5"/>
+<text x="608" y="685" font-size="14" font-weight="400" style="fill:#555">样例试算  38 ÷ 45 × 100</text>
+<text x="608" y="707" font-size="19" font-weight="600" style="fill:#292929">84.4 分  /  Lv3</text>
+<text x="87" y="752" font-size="15" font-weight="400" style="fill:#666">3–8 个维度 · 每维度 2–5 级 · 等级自动命名 Lv1–Lv5</text>
+<text x="955" y="210" font-size="24" font-weight="600" style="fill:#292929">后台 · Excel 导入复核</text>
+<text x="955" y="234" font-size="16" font-weight="400" style="fill:#656565">下载空白模板 → 上传 → 修改问题单元格 → 确认写入草稿</text>
+<rect x="955" y="255" width="840" height="535" rx="3" fill="#fff" stroke="#a8a8a8"/>
+<rect x="955" y="255" width="840" height="42" rx="3" fill="#ededed" stroke="#a8a8a8"/>
+<text x="973" y="282" font-size="16" font-weight="600" style="fill:#292929">虚拟仿真实验教学平台</text>
+<text x="1615" y="282" font-size="14" font-weight="400" style="fill:#666">低保真 / 示例数据</text>
+<text x="977" y="325" font-size="23" font-weight="600" style="fill:#292929">导入能力评价配置</text>
+<rect x="1607" y="315" width="144" height="32" rx="2" fill="#fff" stroke="#bbb"/>
+<text x="1619" y="337" font-size="15" font-weight="400" style="fill:#333">下载空白模板</text>
+<text x="977" y="362" font-size="15" font-weight="400" style="fill:#666">能力维度表 + 步骤表 / 同一 Excel 文件 / 最大 2 MB</text>
+<rect x="977" y="381" width="774" height="58" rx="0" fill="#fafafa" stroke="#c5c5c5"/>
+<text x="993" y="416" font-size="17" font-weight="400" style="fill:#292929">配置方案.xlsx</text>
+<text x="1431" y="416" font-size="15" font-weight="400" style="fill:#555">5 个维度 · 15 条等级 · 10 个步骤</text>
+<rect x="977" y="454" width="167" height="32" rx="2" fill="#333" stroke="#555"/>
+<text x="989" y="476" font-size="15" font-weight="400" style="fill:#fff">能力维度表</text>
+<rect x="1155" y="454" width="130" height="32" rx="2" fill="#fff" stroke="#bbb"/>
+<text x="1167" y="476" font-size="15" font-weight="400" style="fill:#333">步骤表</text>
+<rect x="977" y="502" width="45" height="34" rx="0" fill="#eee" stroke="#c5c5c5"/>
+<text x="987" y="525" font-size="14" font-weight="400" style="fill:#292929">行</text>
+<rect x="1022" y="502" width="192" height="34" rx="0" fill="#eee" stroke="#c5c5c5"/>
+<text x="1032" y="525" font-size="14" font-weight="400" style="fill:#292929">能力维度名称</text>
+<rect x="1214" y="502" width="213" height="34" rx="0" fill="#eee" stroke="#c5c5c5"/>
+<text x="1224" y="525" font-size="14" font-weight="400" style="fill:#292929">关联步骤序号</text>
+<rect x="1427" y="502" width="120" height="34" rx="0" fill="#eee" stroke="#c5c5c5"/>
+<text x="1437" y="525" font-size="14" font-weight="400" style="fill:#292929">起始分数</text>
+<rect x="1547" y="502" width="88" height="34" rx="0" fill="#eee" stroke="#c5c5c5"/>
+<text x="1557" y="525" font-size="14" font-weight="400" style="fill:#292929">等级</text>
+<rect x="1635" y="502" width="116" height="34" rx="0" fill="#eee" stroke="#c5c5c5"/>
+<text x="1645" y="525" font-size="14" font-weight="400" style="fill:#292929">状态</text>
+<rect x="977" y="536" width="45" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="987" y="561" font-size="14" font-weight="400" style="fill:#292929">2</text>
+<rect x="1022" y="536" width="192" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<rect x="1027" y="541" width="182" height="28" rx="1" fill="#fff" stroke="#bbb"/>
+<text x="1032" y="561" font-size="14" font-weight="400" style="fill:#292929">安全规范</text>
+<rect x="1214" y="536" width="213" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<rect x="1219" y="541" width="203" height="28" rx="1" fill="#fff" stroke="#bbb"/>
+<text x="1224" y="561" font-size="14" font-weight="400" style="fill:#292929">01,04,06</text>
+<rect x="1427" y="536" width="120" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<rect x="1432" y="541" width="110" height="28" rx="1" fill="#fff" stroke="#bbb"/>
+<text x="1437" y="561" font-size="14" font-weight="400" style="fill:#292929">0</text>
+<rect x="1547" y="536" width="88" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="1557" y="561" font-size="14" font-weight="400" style="fill:#292929">Lv1</text>
+<rect x="1635" y="536" width="116" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="1645" y="561" font-size="14" font-weight="400" style="fill:#292929">通过</text>
+<rect x="977" y="575" width="45" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="987" y="600" font-size="14" font-weight="400" style="fill:#292929">3</text>
+<rect x="1022" y="575" width="192" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<rect x="1027" y="580" width="182" height="28" rx="1" fill="#fff" stroke="#bbb"/>
+<text x="1032" y="600" font-size="14" font-weight="400" style="fill:#292929">安全规范</text>
+<rect x="1214" y="575" width="213" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<rect x="1219" y="580" width="203" height="28" rx="1" fill="#fff" stroke="#bbb"/>
+<text x="1224" y="600" font-size="14" font-weight="400" style="fill:#292929">01,04,06</text>
+<rect x="1427" y="575" width="120" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<rect x="1432" y="580" width="110" height="28" rx="1" fill="#fff" stroke="#bbb"/>
+<text x="1437" y="600" font-size="14" font-weight="400" style="fill:#292929">60</text>
+<rect x="1547" y="575" width="88" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="1557" y="600" font-size="14" font-weight="400" style="fill:#292929">Lv2</text>
+<rect x="1635" y="575" width="116" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="1645" y="600" font-size="14" font-weight="400" style="fill:#292929">通过</text>
+<rect x="977" y="614" width="45" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="987" y="639" font-size="14" font-weight="400" style="fill:#292929">4</text>
+<rect x="1022" y="614" width="192" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<rect x="1027" y="619" width="182" height="28" rx="1" fill="#fff" stroke="#bbb"/>
+<text x="1032" y="639" font-size="14" font-weight="400" style="fill:#292929">安全规范</text>
+<rect x="1214" y="614" width="213" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<rect x="1219" y="619" width="203" height="28" rx="1" fill="#fff" stroke="#bbb"/>
+<text x="1224" y="639" font-size="14" font-weight="400" style="fill:#292929">01,04,06</text>
+<rect x="1427" y="614" width="120" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<rect x="1432" y="619" width="110" height="28" rx="1" fill="#fff" stroke="#bbb"/>
+<text x="1437" y="639" font-size="14" font-weight="400" style="fill:#292929">80</text>
+<rect x="1547" y="614" width="88" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="1557" y="639" font-size="14" font-weight="400" style="fill:#292929">Lv3</text>
+<rect x="1635" y="614" width="116" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="1645" y="639" font-size="14" font-weight="400" style="fill:#292929">通过</text>
+<rect x="977" y="653" width="45" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="987" y="678" font-size="14" font-weight="400" style="fill:#292929">5</text>
+<rect x="1022" y="653" width="192" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<rect x="1027" y="658" width="182" height="28" rx="1" fill="#fff" stroke="#bbb"/>
+<text x="1032" y="678" font-size="14" font-weight="400" style="fill:#292929">设备理解</text>
+<rect x="1214" y="653" width="213" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<rect x="1219" y="658" width="203" height="28" rx="1" fill="#fff" stroke="#bbb"/>
+<text x="1224" y="678" font-size="14" font-weight="400" style="fill:#292929">02,03</text>
+<rect x="1427" y="653" width="120" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<rect x="1432" y="658" width="110" height="28" rx="1" fill="#fff" stroke="#bbb"/>
+<text x="1437" y="678" font-size="14" font-weight="400" style="fill:#292929">0</text>
+<rect x="1547" y="653" width="88" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="1557" y="678" font-size="14" font-weight="400" style="fill:#292929">Lv1</text>
+<rect x="1635" y="653" width="116" height="39" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="1645" y="678" font-size="14" font-weight="400" style="fill:#292929">通过</text>
+<text x="977" y="718" font-size="15" font-weight="400" style="fill:#292929">校验通过。等级按同一维度的行顺序自动生成。</text>
+<rect x="977" y="738" width="15" height="15" rx="1" fill="#e8e8e8" stroke="#999"/>
+<text x="979" y="750" font-size="12" font-weight="400" style="fill:#292929">✓</text>
+<text x="1002" y="752" font-size="15" font-weight="400" style="fill:#292929">已复核，确认替换当前草稿的配置</text>
+<rect x="1565" y="728" width="186" height="32" rx="2" fill="#333" stroke="#555"/>
+<text x="1577" y="750" font-size="15" font-weight="400" style="fill:#fff">确认导入到草稿</text>
+<text x="65" y="900" font-size="24" font-weight="600" style="fill:#292929">后台 · 校验与发布</text>
+<text x="65" y="924" font-size="16" font-weight="400" style="fill:#656565">试算全部维度 → 学生预览 → 确认新版本</text>
+<rect x="65" y="945" width="840" height="535" rx="3" fill="#fff" stroke="#a8a8a8"/>
+<rect x="65" y="945" width="840" height="42" rx="3" fill="#ededed" stroke="#a8a8a8"/>
+<text x="83" y="972" font-size="16" font-weight="600" style="fill:#292929">虚拟仿真实验教学平台</text>
+<text x="725" y="972" font-size="14" font-weight="400" style="fill:#666">低保真 / 示例数据</text>
+<text x="87" y="1015" font-size="23" font-weight="600" style="fill:#292929">校验通过 · 发布确认</text>
+<text x="87" y="1052" font-size="15" font-weight="400" style="fill:#666">5 个能力维度 / 15 条等级区间 / 评分采用原始步骤得分</text>
+<rect x="87" y="1072" width="230" height="35" rx="0" fill="#eee" stroke="#c5c5c5"/>
+<text x="101" y="1096" font-size="15" font-weight="400" style="fill:#292929">能力维度</text>
+<rect x="317" y="1072" width="180" height="35" rx="0" fill="#eee" stroke="#c5c5c5"/>
+<text x="331" y="1096" font-size="15" font-weight="400" style="fill:#292929">得分 / 满分</text>
+<rect x="497" y="1072" width="180" height="35" rx="0" fill="#eee" stroke="#c5c5c5"/>
+<text x="511" y="1096" font-size="15" font-weight="400" style="fill:#292929">维度分</text>
+<rect x="677" y="1072" width="184" height="35" rx="0" fill="#eee" stroke="#c5c5c5"/>
+<text x="691" y="1096" font-size="15" font-weight="400" style="fill:#292929">等级</text>
+<rect x="87" y="1107" width="230" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="101" y="1131" font-size="15" font-weight="400" style="fill:#292929">安全规范</text>
+<rect x="317" y="1107" width="180" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="331" y="1131" font-size="15" font-weight="400" style="fill:#292929">28 / 35</text>
+<rect x="497" y="1107" width="180" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="511" y="1131" font-size="15" font-weight="400" style="fill:#292929">80.0</text>
+<rect x="677" y="1107" width="184" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="691" y="1131" font-size="15" font-weight="400" style="fill:#292929">Lv3</text>
+<rect x="87" y="1143" width="230" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="101" y="1167" font-size="15" font-weight="400" style="fill:#292929">设备理解</text>
+<rect x="317" y="1143" width="180" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="331" y="1167" font-size="15" font-weight="400" style="fill:#292929">20 / 20</text>
+<rect x="497" y="1143" width="180" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="511" y="1167" font-size="15" font-weight="400" style="fill:#292929">100.0</text>
+<rect x="677" y="1143" width="184" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="691" y="1167" font-size="15" font-weight="400" style="fill:#292929">Lv3</text>
+<rect x="87" y="1179" width="230" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="101" y="1203" font-size="15" font-weight="400" style="fill:#292929">操作执行</text>
+<rect x="317" y="1179" width="180" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="331" y="1203" font-size="15" font-weight="400" style="fill:#292929">38 / 45</text>
+<rect x="497" y="1179" width="180" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="511" y="1203" font-size="15" font-weight="400" style="fill:#292929">84.4</text>
+<rect x="677" y="1179" width="184" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="691" y="1203" font-size="15" font-weight="400" style="fill:#292929">Lv3</text>
+<rect x="87" y="1215" width="230" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="101" y="1239" font-size="15" font-weight="400" style="fill:#292929">状态核验</text>
+<rect x="317" y="1215" width="180" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="331" y="1239" font-size="15" font-weight="400" style="fill:#292929">24 / 30</text>
+<rect x="497" y="1215" width="180" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="511" y="1239" font-size="15" font-weight="400" style="fill:#292929">80.0</text>
+<rect x="677" y="1215" width="184" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="691" y="1239" font-size="15" font-weight="400" style="fill:#292929">Lv3</text>
+<rect x="87" y="1251" width="230" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="101" y="1275" font-size="15" font-weight="400" style="fill:#292929">数据分析</text>
+<rect x="317" y="1251" width="180" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="331" y="1275" font-size="15" font-weight="400" style="fill:#292929">8 / 10</text>
+<rect x="497" y="1251" width="180" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="511" y="1275" font-size="15" font-weight="400" style="fill:#292929">80.0</text>
+<rect x="677" y="1251" width="184" height="36" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="691" y="1275" font-size="15" font-weight="400" style="fill:#292929">Lv3</text>
+<rect x="87" y="1311" width="774" height="106" rx="0" fill="#f6f6f6" stroke="#555"/>
+<text x="103" y="1340" font-size="18" font-weight="600" style="fill:#292929">确认发布 V1.1</text>
+<text x="103" y="1367" font-size="15" font-weight="400" style="fill:#555">新版本用于后续新开始的实训，历史评价保留原版本。</text>
+<rect x="103" y="1379" width="125" height="32" rx="2" fill="#fff" stroke="#bbb"/>
+<text x="115" y="1401" font-size="15" font-weight="400" style="fill:#333">继续编辑</text>
+<rect x="662" y="1379" width="182" height="32" rx="2" fill="#333" stroke="#555"/>
+<text x="674" y="1401" font-size="15" font-weight="400" style="fill:#fff">确认模拟发布</text>
+<text x="87" y="1446" font-size="15" font-weight="400" style="fill:#666">草稿、预览与已发布版本区分呈现；本原型发布为模拟操作。</text>
+<text x="955" y="900" font-size="24" font-weight="600" style="fill:#292929">学生端 · 能力画像与依据</text>
+<text x="955" y="924" font-size="16" font-weight="400" style="fill:#656565">点击雷达图维度 → 查看成绩档位 → 追溯实验步骤得分</text>
+<rect x="955" y="945" width="840" height="535" rx="3" fill="#fff" stroke="#a8a8a8"/>
+<rect x="955" y="945" width="840" height="42" rx="3" fill="#ededed" stroke="#a8a8a8"/>
+<text x="973" y="972" font-size="16" font-weight="600" style="fill:#292929">虚拟仿真实验教学平台</text>
+<text x="1615" y="972" font-size="14" font-weight="400" style="fill:#666">低保真 / 示例数据</text>
+<text x="977" y="1015" font-size="23" font-weight="600" style="fill:#292929">我的能力表现</text>
+<text x="977" y="1052" font-size="15" font-weight="400" style="fill:#666">许闻 / 停送电操作实验 / 第 4 次实训 / 方案 V1.0</text>
+<polygon points="1165.00,1217.00 1186.87,1232.89 1178.52,1258.61 1151.48,1258.61 1143.13,1232.89" fill="none" stroke="#ccc"/>
+<polygon points="1165.00,1194.00 1208.75,1225.79 1192.04,1277.21 1137.96,1277.21 1121.25,1225.79" fill="none" stroke="#ccc"/>
+<polygon points="1165.00,1171.00 1230.62,1218.68 1205.56,1295.82 1124.44,1295.82 1099.38,1218.68" fill="none" stroke="#ccc"/>
+<polygon points="1165.00,1148.00 1252.50,1211.57 1219.08,1314.43 1110.92,1314.43 1077.50,1211.57" fill="none" stroke="#ccc"/>
+<polygon points="1165.00,1125.00 1274.37,1204.46 1232.60,1333.04 1097.40,1333.04 1055.63,1204.46" fill="none" stroke="#ccc"/>
+<line x1="1165" y1="1240" x2="1165.0" y2="1125.0" stroke="#d0d0d0"/>
+<line x1="1165" y1="1240" x2="1274.3714993739427" y2="1204.463045646881" stroke="#d0d0d0"/>
+<line x1="1165" y1="1240" x2="1232.5953040136344" y2="1333.036954353119" stroke="#d0d0d0"/>
+<line x1="1165" y1="1240" x2="1097.4046959863656" y2="1333.036954353119" stroke="#d0d0d0"/>
+<line x1="1165" y1="1240" x2="1055.6285006260573" y2="1204.463045646881" stroke="#d0d0d0"/>
+<polygon points="1165.00,1148.00 1274.37,1204.46 1222.08,1318.56 1110.92,1314.43 1077.50,1211.57" fill="#dedede" fill-opacity=".7" stroke="#333" stroke-width="2"/>
+<circle cx="1165.0" cy="1148.0" r="4" fill="#333"/>
+<circle cx="1274.3714993739427" cy="1204.463045646881" r="4" fill="#333"/>
+<circle cx="1222.0804786444232" cy="1318.564538818025" r="4" fill="#333"/>
+<circle cx="1110.9237567890925" cy="1314.4295634824953" r="4" fill="#333"/>
+<circle cx="1077.5028005008458" cy="1211.570436517505" r="4" fill="#333"/>
+<text x="1115" y="1102" font-size="14" font-weight="400" style="fill:#292929">安全规范 80</text>
+<text x="1252" y="1194" font-size="14" font-weight="400" style="fill:#292929">设备理解 100</text>
+<text x="1217" y="1375" font-size="14" font-weight="400" style="fill:#292929">操作执行 84.4</text>
+<text x="1001" y="1375" font-size="14" font-weight="400" style="fill:#292929">状态核验 80</text>
+<text x="986" y="1194" font-size="14" font-weight="400" style="fill:#292929">数据分析 80</text>
+<text x="1072" y="1416" font-size="15" font-weight="400" style="fill:#666">统一刻度 0–100 分</text>
+<line x1="1367" y1="1084" x2="1367" y2="1419" stroke="#d0d0d0"/>
+<text x="1392" y="1106" font-size="20" font-weight="600" style="fill:#292929">操作执行</text>
+<text x="1392" y="1149" font-size="33" font-weight="600" style="fill:#292929">84.4 分</text>
+<text x="1557" y="1147" font-size="21" font-weight="400" style="fill:#292929">Lv3</text>
+<rect x="1392" y="1170" width="359" height="31" rx="0" fill="#fff" stroke="#d0d0d0"/>
+<text x="1403" y="1192" font-size="15" font-weight="400" style="fill:#292929">Lv1</text>
+<text x="1472" y="1192" font-size="14" font-weight="400" style="fill:#292929">0 ≤ 分数 &lt; 60</text>
+<rect x="1392" y="1206" width="359" height="31" rx="0" fill="#fff" stroke="#d0d0d0"/>
+<text x="1403" y="1228" font-size="15" font-weight="400" style="fill:#292929">Lv2</text>
+<text x="1472" y="1228" font-size="14" font-weight="400" style="fill:#292929">60 ≤ 分数 &lt; 80</text>
+<rect x="1392" y="1242" width="359" height="31" rx="0" fill="#e9e9e9" stroke="#999"/>
+<text x="1403" y="1264" font-size="15" font-weight="400" style="fill:#292929">Lv3</text>
+<text x="1472" y="1264" font-size="14" font-weight="400" style="fill:#292929">80 ≤ 分数 ≤ 100</text>
+<text x="1392" y="1302" font-size="16" font-weight="600" style="fill:#292929">步骤得分依据</text>
+<text x="1392" y="1329" font-size="15" font-weight="400" style="fill:#292929">05 停电倒闸操作</text>
+<text x="1675" y="1329" font-size="15" font-weight="400" style="fill:#292929">18 / 20</text>
+<line x1="1392" y1="1338" x2="1751" y2="1338" stroke="#d0d0d0"/>
+<text x="1392" y="1357" font-size="15" font-weight="400" style="fill:#292929">06 验电与接地</text>
+<text x="1675" y="1357" font-size="15" font-weight="400" style="fill:#292929">15 / 20</text>
+<line x1="1392" y1="1366" x2="1751" y2="1366" stroke="#d0d0d0"/>
+<text x="1392" y="1385" font-size="15" font-weight="400" style="fill:#292929">08 送电恢复</text>
+<text x="1675" y="1385" font-size="15" font-weight="400" style="fill:#292929">5 / 5</text>
+<line x1="1392" y1="1394" x2="1751" y2="1394" stroke="#d0d0d0"/>
+<text x="1392" y="1428" font-size="14" font-weight="400" style="fill:#555">(18 + 15 + 5) ÷ 45 × 100 = 84.4</text>
+<text x="65" y="1520" font-size="17" font-weight="400" style="fill:#555">判级：先汇总维度分，再匹配区间；缺失得分显示“待评价”，不等同于 0 分。所有数据与发布行为均为演示。</text>
+</svg>

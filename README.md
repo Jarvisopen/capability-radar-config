@@ -2,6 +2,17 @@
 
 虚拟仿真实验能力评价的交互演示，包括后台配置、Excel 导入复核、学生端雷达图及计算流程。
 
+## 在线低保真原型
+
+- [打开交互原型](https://capability-radar-config.blithe-oasis-1095.chatgpt.site/prototype/)
+- [查看四屏总览](prototype/overview.png)
+- [下载 Excel 空白模板](prototype/能力评价配置空白模板.xlsx)
+- [页面与规则说明](prototype/README.md)
+
+新增灰度线框页面覆盖后台配置、Excel 导入复核、校验发布、学生画像与步骤依据。保存和发布为会话内演示，未连接真实教学服务。
+
+![低保真产品原型](prototype/overview.png)
+
 ## 运行
 
 直接用浏览器打开 `index.html`，或在此目录运行：
